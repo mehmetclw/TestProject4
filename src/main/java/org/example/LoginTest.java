@@ -1,0 +1,7 @@
+package org.example;
+
+public class LoginTest {
+    public void loginTesting(){
+        System.out.println("I am checking the login");
+    }
+}
